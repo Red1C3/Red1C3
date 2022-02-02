@@ -14,22 +14,45 @@
 <a href="https://www.codeberg.org/RedDeadAlice/"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white">
 </a><a href="https://sketchfab.com/RedDeadAlice"><img src="https://img.shields.io/badge/sketchfab-%231CAAD9.svg?&style=for-the-badge&logo=sketchfab&logoColor=white"></a>
 
+## What am I learning atm:
+[Reading Fundamentals of Computer Graphics, 5th Edition.](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037)
+
 ## Current Daily Driver:
+<a href="https://getfedora.org/">
 <img src="https://img.shields.io/badge/fedora-%23294172.svg?&style=for-the-badge&logo=fedora&logoColor=white" />
+</a>
 
 ## Game Engines I do:
+<a href="https://unity.com">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+</a>
+<a href="https://godotengine.org/">
 <img src="https://img.shields.io/badge/godot%20engine-%23478CBF.svg?&style=for-the-badge&logo=godot%20engine&logoColor=white" />
+</a>
+<a href="https://www.cryengine.com/">
 <img src="https://img.shields.io/badge/cryengine-%23000000.svg?&style=for-the-badge&logo=cryengine&logoColor=white" />
+</a>
 
 
 ## Tools and Frameworks I do:
+<a href="https://www.opengl.org/">
 <img src="https://img.shields.io/badge/opengl-%235586A4.svg?&style=for-the-badge&logo=opengl&logoColor=white" />
+</a>
+<a href="https://www.vulkan.org/">
 <img src="https://img.shields.io/badge/vulkan-%23AC162C.svg?&style=for-the-badge&logo=vulkan&logoColor=white" />
+</a>
+<a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a href="https://www.blender.org/">
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" />
+</a>
+<a href="https://www.gimp.org/">
 <img src="https://img.shields.io/badge/gimp-%235C5543.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
+</a>
+<a href="https://inkscape.org/">
 <img src="https://img.shields.io/badge/inkscape-%23000000.svg?&style=for-the-badge&logo=inkscape&logoColor=white" />
+</a>
 
 ## Programming Languages I do most:
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
