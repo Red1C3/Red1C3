@@ -15,7 +15,7 @@
 </a><a href="https://sketchfab.com/RedDeadAlice"><img src="https://img.shields.io/badge/sketchfab-%231CAAD9.svg?&style=for-the-badge&logo=sketchfab&logoColor=white"></a>
 
 ## What am I learning atm:
-[Reading Fundamentals of Computer Graphics, 5th Edition.](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037)
+[Vulkan Programming Guide: The Official Guide to Learning Vulkan, 1st Edition.](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540)
 
 ## Current Daily Driver:
 <a href="https://getfedora.org/">
