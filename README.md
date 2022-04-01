@@ -14,8 +14,6 @@
 <a href="https://www.codeberg.org/RedDeadAlice/"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white">
 </a><a href="https://sketchfab.com/RedDeadAlice"><img src="https://img.shields.io/badge/sketchfab-%231CAAD9.svg?&style=for-the-badge&logo=sketchfab&logoColor=white"></a>
 
-## What am I learning atm:
-[Vulkan Programming Guide: The Official Guide to Learning Vulkan, 1st Edition.](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540)
 
 ## Current Daily Driver:
 <a href="https://getfedora.org/">
