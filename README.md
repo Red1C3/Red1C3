@@ -4,15 +4,15 @@
 <br>
 
 ## Connect with me at:
-<a href="https://www.linkedin.com/in/RedDeadAlice/">
+<a href="https://www.linkedin.com/in/Red1C3/">
 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
 ## I also share my projects on:
-<a href="https://www.codeberg.org/RedDeadAlice/"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white">
-</a><a href="https://sketchfab.com/RedDeadAlice"><img src="https://img.shields.io/badge/sketchfab-%231CAAD9.svg?&style=for-the-badge&logo=sketchfab&logoColor=white"></a>
+<a href="https://www.codeberg.org/Red1C3/"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white">
+</a><a href="https://sketchfab.com/Red1C3"><img src="https://img.shields.io/badge/sketchfab-%231CAAD9.svg?&style=for-the-badge&logo=sketchfab&logoColor=white"></a>
 
 
 ## Current Daily Driver:
