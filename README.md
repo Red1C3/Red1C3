@@ -1,6 +1,6 @@
 # Hello Friend, Hello Friend
 
-### My name is Mohammad, I am a Computer Science student, Game Developer && Computer Graphics Enthusiast.
+### My name is Mohammad, I am a Software Engineering Student, Game Developer & Computer Graphics Enthusiast.
 <br>
 
 ## Connect with me at:
