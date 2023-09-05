@@ -16,7 +16,7 @@
 
 
 ## Current Daily Drivers:
-<a href="https://archlinux32.org/">
+<a href="https://archlinux.org/">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=purple" />
 </a>
 <a href="https://getfedora.org/">
