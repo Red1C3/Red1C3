@@ -15,9 +15,12 @@
 </a><a href="https://sketchfab.com/Red1C3"><img src="https://img.shields.io/badge/sketchfab-%231CAAD9.svg?&style=for-the-badge&logo=sketchfab&logoColor=white"></a>
 
 
-## Current Daily Driver:
+## Current Daily Drivers:
+<a href="https://archlinux32.org/">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=purple" />
+</a>
 <a href="https://getfedora.org/">
-<img src="https://img.shields.io/badge/fedora-%23294172.svg?&style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/fedora-%23294172.svg?&style=for-the-badge&logo=fedora&logoColor=blue" />
 </a>
 
 ## Game Engines I use:
