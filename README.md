@@ -19,9 +19,6 @@
 <a href="https://archlinux.org/">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=purple" />
 </a>
-<a href="https://getfedora.org/">
-<img src="https://img.shields.io/badge/fedora-%23294172.svg?&style=for-the-badge&logo=fedora&logoColor=blue" />
-</a>
 
 ## Game Engines I use:
 <a href="https://godotengine.org/">
