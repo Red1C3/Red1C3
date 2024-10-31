@@ -1,5 +1,3 @@
-# Hello Friend, Hello Friend
-
 ### My name is Mohammad, I am a Software Engineer, Game Developer & Computer Graphics Enthusiast.
 <br>
 
